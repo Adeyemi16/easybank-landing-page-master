@@ -96,6 +96,11 @@ ul{
     cursor: pointer;
 }
 
+.inviteb:hover{
+    background: linear-gradient( to right, var(--Lime-Green), var(--Bright-Cyan));
+    cursor: pointer;
+}
+
 .second{
     background: var(--Very-Light-Gray);
     width: 100%;
